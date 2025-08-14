@@ -1,4 +1,6 @@
-##Sentiment Analysis of Google Reviews##
+##
+**Sentiment Analysis of Google Reviews**
+##
 
 A clean, reproducible notebook project for classifying sentiment in Google reviews using both a traditional ML pipeline (TF–IDF + Multinomial Naive Bayes) and an LLM-assisted baseline (Gemini). This README documents the dataset, methodology, environment setup, and how to run/evaluate/infer with the project at a professional standard.
 
